@@ -10,9 +10,9 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer @ Serttel i
 
 ### Firmware Development
 
-- [**stm32-bare-metal**](https://github.com/mfbsouza/stm32-bare-metal) - Getting started with bare-metal programming on a STM32F1 microcontroller using the GNU Toolchain to learning purposes
-- [**avr-bare-metal**](https://github.com/mfbsouza/avr-bare-metal) - Getting started with bare-metal programming on a AVR microcontroller using the GNU Toolchain to learning purposes
-- [**can-controller**](https://github.com/mfbsouza/can-controller) - Implementation of the CAN protocol for Arduino Uno
+- [**stm32-bare-metal**](https://github.com/mfbsouza/stm32-bare-metal) - bare-metal programming on a STM32F1 microcontroller using the GNU Toolchain
+- [**avr-bare-metal**](https://github.com/mfbsouza/avr-bare-metal) - bare-metal programming on a AVR microcontroller using the GNU Toolchain
+- [**can-controller**](https://github.com/mfbsouza/can-controller) - software implementation of the CAN protocol for Arduino Uno
 
 ### Control System Engineering
 
@@ -20,15 +20,15 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer @ Serttel i
 
 ### Numerical Analysis
 
-- [**AntennasPy**](https://github.com/mfbsouza/AntennasPy) - Numerical analysis of the properties of dipole antennas using the Method of Moments
-
-### Linux Device Driver
-
-- [**MusicBox**](https://github.com/mfbsouza/MusicBox) - Music instrument simulator using a Arduino Uno and a FPGA board
+- [**AntennasPy**](https://github.com/mfbsouza/AntennasPy) - numerical analysis of the properties of dipole antennas using the Method of Moments
 
 ### Computer Architecture
 
-- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - Implementation of a mips-based processor architecture using SystemVerilog and VHDL
+- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
+
+### My favorite languages
+
+- C, Python and starting to lurn Rust
 
 <!--
 **mfbsouza/mfbsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
