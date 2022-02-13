@@ -8,23 +8,27 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer @ Serttel i
 
 ### Some of my hobbies by field
 
+### Hardware/Software Interface
+
+- [**FATFS**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
+
+### Control System Engineering
+
+- [**PID-Rocket**](https://github.com/mfbsouza/PID-Rocket) - PID controller simulation to control a rocket height under the effects of non-uniform motion physics
+
+### Computer Architecture
+
+- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
+
 ### Firmware Development
 
 - [**stm32-bare-metal**](https://github.com/mfbsouza/stm32-bare-metal) - bare-metal programming on a STM32F1 microcontroller using the GNU Toolchain
 - [**avr-bare-metal**](https://github.com/mfbsouza/avr-bare-metal) - bare-metal programming on a AVR microcontroller using the GNU Toolchain
 - [**can-controller**](https://github.com/mfbsouza/can-controller) - software implementation of the CAN protocol for Arduino Uno
 
-### Control System Engineering
-
-- [**PID-Rocket**](https://github.com/mfbsouza/PID-Rocket) - PID controller simulation to control a rocket height under the effects of non-uniform motion physics
-
 ### Numerical Analysis
 
 - [**AntennasPy**](https://github.com/mfbsouza/AntennasPy) - numerical analysis of the properties of dipole antennas using the Method of Moments
-
-### Computer Architecture
-
-- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
 
 ### My favorite languages
 
