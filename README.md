@@ -4,13 +4,15 @@
 Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, Brazil.
 
 - I Love tinkering with hardware from a software perspective, but that doesn't mean i don't know how to use a soldering iron!
-- I Love working with Embedded Linux, IoT, Device Drivers... ( unfortunately i don't get to do drivers that much this days :( )
+- I Love working with Embedded Linux, IoT, Device Drivers...
 
 ### Some of my hobbies by field
 
-### Hardware/Software Interface
+### Computer Architecture and Operating Systems
 
 - [**FATFS**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
+- [**LKM Development**](https://github.com/mfbsouza/ihs-project-layout) - Collection of exemples, docs and scripts for developing Linux Device Drivers and how to interact with them from userspace
+- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
 
 ### Control System Engineering
 
@@ -20,10 +22,6 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, 
 
 - [**AntennasPy**](https://github.com/mfbsouza/AntennasPy) - numerical analysis of the properties of dipole antennas using the Method of Moments
 
-### Computer Architecture
-
-- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
-
 ### Firmware Development
 
 - [**stm32-bare-metal**](https://github.com/mfbsouza/stm32-bare-metal) - bare-metal programming on a STM32F1 microcontroller using the GNU Toolchain
@@ -32,7 +30,7 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, 
 
 ### My favorite languages
 
-- C, Python and starting to lurn Rust
+- C, Python and starting to learn Rust
 
 <!--
 **mfbsouza/mfbsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
