@@ -11,8 +11,8 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, 
 ### Computer Architecture and Operating Systems
 
 - [**FATFS**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
-- [**LKM Development**](https://github.com/mfbsouza/ihs-project-layout) - exemples, docs & scripts for developing Linux Device Drivers and interact with them from userspace.
-- [**pciheader**](https://github.com/mfbsouza/pciheader) - Simple C program to print out some PCI registers in the configuration space
+- [**LKM Development**](https://github.com/mfbsouza/ihs-project-layout) - exemples, docs & scripts for developing Linux Device Drivers and interact with them from userspace
+- [**PCIHeader**](https://github.com/mfbsouza/pciheader) - Simple C program to print some PCI registers in the configuration space
 - [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
 
 ### Control System Engineering
