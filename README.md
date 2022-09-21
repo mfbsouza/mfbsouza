@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfbsouza.mfbsouza)
 
-Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, Brazil.
+Im a Computer Engineer @ UFPE working as an Embedded Software Developer in Recife, Brazil.
 
 - I Love tinkering with hardware from a software perspective, but that doesn't mean i don't know how to use a soldering iron!
 - I Love working with Embedded Linux, IoT, Device Drivers...
@@ -10,14 +10,14 @@ Im a Computer Engineer @ UFPE working as a Embedded Systems Engineer in Recife, 
 
 ### Computer Architecture and Operating Systems
 
-- [**FATFS**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
-- [**LKM Development**](https://github.com/mfbsouza/ihs-project-layout) - exemples, docs & scripts for developing Linux Device Drivers and interact with them from userspace
-- [**PCIHeader**](https://github.com/mfbsouza/pciheader) - Simple C program to print some PCI registers in the configuration space
-- [**MipsCPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
+- [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout) - exemples, docs & scripts for developing Linux Device Drivers and interact with them from userspace
+- [**Mips CPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
+- [**FAT File System**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
+- [**PCI Header**](https://github.com/mfbsouza/pciheader) - Simple C program to print some PCI registers in the configuration space
 
 ### Control System Engineering
 
-- [**PID-Rocket**](https://github.com/mfbsouza/PID-Rocket) - PID controller simulation to control a rocket height under the effects of non-uniform motion physics
+- [**PID Rocket Simulation**](https://github.com/mfbsouza/PID-Rocket) - PID controller simulation to control a rocket height under the effects of non-uniform motion physics
 
 ### Numerical Analysis
 
