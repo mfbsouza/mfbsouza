@@ -8,6 +8,11 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 - Strong skills at C/C++ Programming, Embedded Linux & Linux Device Drivers.
 - Interested in Rust, Unit Tests and DevOps
 
+### Cover Letter
+
+- [CV22 in English](CV22_EN_US.pdf)
+- [CV22 in Brazilian Portuguese](CV22_PT_BR.pdf)
+
 ### Some of my hobbies by field
 
 ### Computer Networks
