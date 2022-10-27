@@ -3,8 +3,10 @@
 
 Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as an Embedded Software Developer in Recife, Brazil.
 
-- I Love tinkering with hardware from a software perspective, but that doesn't mean i don't know how to use a soldering iron!
-- I Love working with Embedded Linux, IoT, Device Drivers...
+- Linux & Open Source Enthusiast;
+- 3+ years of experience in Embedded Systems/IoT development;
+- Strong skills at C/C++ Programming, Embedded Linux & Linux Device Drivers.
+- Interested in Rust, Unit Tests and DevOps
 
 ### Some of my hobbies by field
 
