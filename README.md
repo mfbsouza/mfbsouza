@@ -1,19 +1,21 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfbsouza.mfbsouza)
 
-Im a Computer Engineer @ UFPE working as an Embedded Software Developer in Recife, Brazil.
+Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as an Embedded Software Developer in Recife, Brazil.
 
 - I Love tinkering with hardware from a software perspective, but that doesn't mean i don't know how to use a soldering iron!
 - I Love working with Embedded Linux, IoT, Device Drivers...
 
 ### Some of my hobbies by field
 
-### Computer Architecture and Operating Systems
+### Computer Networks
 
-- [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout) - exemples, docs & scripts for developing Linux Device Drivers and interact with them from userspace
-- [**Mips CPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
+- [**SNPES**](https://github.com/mfbsouza/snpes/tree/dev) - Simples Network Protocol for Embedded Systems
+
+### Operating Systems
+
+- [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout/tree/dev) - exemples, docs & scripts for developing Linux Device Drivers
 - [**FAT File System**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
-- [**PCI Header**](https://github.com/mfbsouza/pciheader) - Simple C program to print some PCI registers in the configuration space
 
 ### Control System Engineering
 
@@ -23,11 +25,9 @@ Im a Computer Engineer @ UFPE working as an Embedded Software Developer in Recif
 
 - [**AntennasPy**](https://github.com/mfbsouza/AntennasPy) - numerical analysis of the properties of dipole antennas using the Method of Moments
 
-### Firmware Development
+### Computer Architecture
 
-- [**stm32-bare-metal**](https://github.com/mfbsouza/stm32-bare-metal) - bare-metal programming on a STM32F1 microcontroller using the GNU Toolchain
-- [**avr-bare-metal**](https://github.com/mfbsouza/avr-bare-metal) - bare-metal programming on a AVR microcontroller using the GNU Toolchain
-- [**can-controller**](https://github.com/mfbsouza/can-controller) - software implementation of the CAN protocol for Arduino Uno
+- [**Mips CPU**](https://github.com/mfbsouza/MipsCPU) - implementation of a mips-based processor architecture using SystemVerilog and VHDL
 
 ### My favorite languages
 
