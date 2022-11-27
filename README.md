@@ -6,7 +6,7 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 - Linux & Open Source Enthusiast;
 - 3+ years of experience in Embedded Systems/IoT development;
 - Strong skills at C/C++ Programming, Embedded Linux & Linux Device Drivers.
-- Interested in Rust, Unit Tests and DevOps
+- Interested in Rust, Go, Unit Tests and DevOps
 
 ### Cover Letter
 
