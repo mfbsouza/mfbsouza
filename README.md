@@ -4,9 +4,9 @@
 Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as an Embedded Software Developer in Recife, Brazil.
 
 - Linux & Open Source Enthusiast;
-- 3+ years of experience in Embedded Systems/IoT development;
-- Strong skills at C/C++ Programming, Embedded Linux & Linux Device Drivers.
-- Interested in Linux, Rust, Back-end and DevOps
+- 7 years using C and Linux Systems
+- Researcher and Communitarian
+- Interested in Linux, Back-end, Rust and DevOps
 
 ### Cover Letter
 
