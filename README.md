@@ -6,7 +6,7 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 - Linux & Open Source Enthusiast;
 - 3+ years of experience in Embedded Systems/IoT development;
 - Strong skills at C/C++ Programming, Embedded Linux & Linux Device Drivers.
-- Interested in Rust, Go, Unit Tests and DevOps
+- Interested in Linux, Rust, Back-end and DevOps
 
 ### Cover Letter
 
@@ -23,6 +23,10 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 - [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout/tree/dev) - exemples, docs & scripts for developing Linux Device Drivers
 - [**FAT File System**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
 
+### Data Structures and Algorithms
+
+- [**GOrithms**](https://github.com/mfbsouza/gorithms) - collection of data structures and algorithms in Go for personal use and learning purposes
+
 ### Control System Engineering
 
 - [**PID Rocket Simulation**](https://github.com/mfbsouza/PID-Rocket) - PID controller simulation to control a rocket height under the effects of non-uniform motion physics
@@ -37,7 +41,7 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 
 ### My favorite languages
 
-- C, Python and starting to learn Rust
+- C, Go, Python and starting to learn Rust
 
 <!--
 **mfbsouza/mfbsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
