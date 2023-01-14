@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfbsouza.mfbsouza)
 
-Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as an Embedded Software Developer in Recife, Brazil.
+Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as a Linux & Cybersecurity Developer II in Brazil.
 
 - Linux & Open Source Enthusiast;
 - 7 years using C and Linux Systems
 - Researcher and Communitarian
-- Interested in Linux, Back-end, Rust and DevOps
+- Interested in Linux, Go, Back-Ends and Embedded Systems
 
 ### Cover Letter
 
