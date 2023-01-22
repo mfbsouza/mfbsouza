@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfbsouza.mfbsouza)
 
-Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as a Linux & Cybersecurity Developer II in Brazil.
+Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as a Linux Engineer in Brazil.
 
 - Linux & Open Source Enthusiast;
 - 7 years using C and Linux Systems
