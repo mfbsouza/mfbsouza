@@ -1,12 +1,12 @@
 ### Hi there 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mfbsouza.mfbsouza)
 
-Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as a Linux Engineer in Brazil.
+Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as a Linux System Engineer @ [blockbit](https://www.blockbit.com/en/) in Brazil.
 
 - Linux & Open Source Enthusiast;
-- 7 years using C and Linux Systems
-- Researcher and Communitarian
-- Interested in Linux, Go, Back-Ends and Embedded Systems
+- 7 years using C and Linux Systems;
+- Researcher and Communitarian;
+- Interested in Operating Systems, DevOps and Cybersecurity.
 
 ### Cover Letter
 
@@ -22,11 +22,11 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 ### Operating Systems
 
 - [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout/tree/dev) - exemples, docs & scripts for developing Linux Device Drivers
-- [**FAT File System**](https://github.com/mfbsouza/fatfs) - FAT File System implmentation in C
+- [**FAT File System**](https://github.com/mfbsouza/fatfs) - WIP of a FAT File System implmentation in C
 
 ### Data Structures and Algorithms
 
-- [**GOrithms**](https://github.com/mfbsouza/gorithms) - collection of data structures and algorithms in Go for personal use and learning purposes
+- [**GOrithms**](https://github.com/mfbsouza/gorithms) - WIP of collection of data structures and algorithms in Go for personal use and learning purposes
 
 ### Control System Engineering
 
@@ -42,19 +42,4 @@ Im a Bsc. Computer Engineer @ [CIn-UFPE](https://portal.cin.ufpe.br/) working as
 
 ### My favorite languages
 
-- C, Go, Python and starting to learn Rust
-
-<!--
-**mfbsouza/mfbsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C, Go, Python and *trying* to start to learn Rust
