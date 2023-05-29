@@ -9,7 +9,7 @@ expertise in fields such as: Computer Networks, Embedded Systems, Linux Device
 Drivers and Hardware Development.
 
 I'm currently working as a Linux System Engineer developing a Linux-based
-Firewall using the Yocto Project @ [blockbit](https://www.blockbit.com/en/)
+Firewall using the `Yocto Project` @ [blockbit](https://www.blockbit.com/en/)
 in Brazil.
 
 I've also done some academic work researching and developing a Network Protocol
@@ -23,10 +23,13 @@ for microcontrollers using a LoRa Radio @
 
 ### Some of my hobbies by field
 
+### Computer Networks
+
+- [**SNPES**](https://github.com/mfbsouza/snpes/tree/dev) - Simples Network Protocol for Embedded Systems
+
 ### Operating Systems
 
 - [**Linux Driver Development**](https://github.com/mfbsouza/ihs-project-layout/tree/dev) - exemples, docs & scripts for developing Linux Device Drivers
-- [**FAT File System**](https://github.com/mfbsouza/fatfs) - WIP of a FAT File System implmentation in C
 
 ### Control System Engineering
 
