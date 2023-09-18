@@ -9,7 +9,6 @@
 ### Cover Letter
 
 - [CV23 in English](CV23_EN_US.pdf)
-- [CV23 in Brazilian Portuguese](CV23_PT_BR.pdf)
 
 ### Main research project
 
