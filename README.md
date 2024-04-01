@@ -10,11 +10,12 @@
 - [CV24 in English](MFBS_CV24_EN_US.pdf)
 - [CV24 in Brazilian Portuguese](MFBS_CV24_PT_BR.pdf)
 
-### Main research project
+### Main projects
 
-- [**SNPES**](https://github.com/mfbsouza/snpes/tree/dev) - Simples Network Protocol for Embedded Systems
+- [**SNPES**](https://github.com/mfbsouza/snpes/tree/dev) - Simple Network Protocol for Embedded Systems
+- [**boislib**](https://github.com/mfbsouza/boislib) - Collection of portable libraries to extended the C ecosystem 
 
-### Some of my projects
+### Other projects
 
 - [**Big Brother**](https://github.com/mfbsouza/big-brother) - A simple inventory management system for laboratory equipment using embedded systems, go, and HTMX!
 
