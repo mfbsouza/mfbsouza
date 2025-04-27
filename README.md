@@ -1,11 +1,12 @@
 ### Hi there! 👋
 
-I'm software engineer with 5 years of work experience. I currently work at CESAR in Brazil.
-I have experience working with Backend development, Linux Programming and Embedded Systems.
+I'm software engineer with 5 years of work experience. I have experience working with
+Embedded Systems, Linux Programming and Backend development.
 
 During my software engineering career, I have worked with multiple programming languages,
-libraries, frameworks, and technologies such as Go, Python, C/C++, TypeScript, Bun, Express,
-Flask, SQL, PostgreSQL, SQLite, Firebase, MongoDB, Docker, Jenkins, GNU Toolchains, Yocto Project.
+libraries, frameworks, and technologies such as C/C++, Go, Python, TypeScript, Bun, Express,
+Flask, SQL, PostgreSQL, SQLite, Firestore, Docker, Jenkins, GNU Toolchains, Yocto Project,
+BuildRoot.
 
 I have a BSc in Computer Engineering and recently completed 10 years as a programmer.
 As a hobby, I maintain and develop two open-source projects created in my graduation thesis
