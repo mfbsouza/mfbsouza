@@ -1,16 +1,18 @@
 ### Hi there! 👋
 
+Hi there!
+
 I'm software engineer with 5 years of work experience. I have experience working with
-Embedded Systems, Linux Programming and Backend development.
+Embedded Systems, Low Level Programming, Linux Systems and Backend development.
 
-During my software engineering career, I have worked with multiple programming languages,
-libraries, frameworks, and technologies such as C/C++, Go, Python, TypeScript, Bun, Express,
-Flask, SQL, PostgreSQL, SQLite, Firestore, Docker, Jenkins, GNU Toolchains, Yocto Project,
-BuildRoot.
+During my software engineering career, I've build strong skills in designing reliable
+and scalable solutions. I've worked with multiple programming languages, libraries,
+frameworks, and technologies such as C/C++, Go, Python, TypeScript, Docker, Jenkins,
+Ansible, Linux Kernel and Drivers, RTOS, GNU Toolchains, Yocto Project, BuildRoot.
 
-I have a BSc in Computer Engineering and recently completed 10 years as a programmer.
-As a hobby, I maintain and develop two open-source projects created in my graduation thesis
-and recently used in some academic research projects.
+As a graduate Computer Engineer I have a solid knowledge over Computer Architectures,
+Operating Systems and hardware/software system designs. And I recently completed 10
+years as a programmer.
 
 ### Main public projects
 
