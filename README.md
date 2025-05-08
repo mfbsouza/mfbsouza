@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-Hi there!
-
 I'm software engineer with 5 years of work experience. I have experience working with
 Embedded Systems, Low Level Programming, Linux Systems and Backend development.
 
