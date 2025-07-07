@@ -1,16 +1,24 @@
-### Hi there! 👋
+### Hey there! 👋🐧
 
-I'm software engineer with 5 years of work experience. I have experience working with
-Embedded Systems, Low Level Programming, Linux Systems and Backend development.
+#### Who am I?
+I am a fun Brazilian how lives and breathes technology. Loves Linux, Loves Open-Source, Loves Hardware and Loves Gaming.
+My greatest strengths are that I am extremely curious, can't settle before deeply understanding how something works,
+and I'm tirelessly dedicated to developing well-designed, scalable and fast software solutions.
 
-During my software engineering career, I've build strong skills in designing reliable
-and scalable solutions. I've worked with multiple programming languages, libraries,
-frameworks, and technologies such as C/C++, Go, Python, TypeScript, Docker, Jenkins,
-Ansible, Linux Kernel and Drivers, RTOS, GNU Toolchains, Yocto Project, BuildRoot.
+I've been working as a Software Engineer for 5 years now, and programming for 10 years. I have a bachelor's degree in
+Computer Engineering and strong knowledge on Computer Architecture, Computer Networking, System Programming and 
+Distributed Systems.
 
-As a graduate Computer Engineer I have a solid knowledge over Computer Architectures,
-Operating Systems and hardware/software system designs. And I recently completed 10
-years as a programmer.
+#### What's main goal?
+To use technology to build innovative solutions to problems and improve people's daily lives
+
+#### My dream stack?
+- Zig and C for system programming and low-level
+- Lua as a embedded script language
+- Go and TypeScript for daemons and back-end
+- Python for developing tools
+
+Let's connect!
 
 ### Main public projects
 
