@@ -9,7 +9,7 @@ I've been working as a Software Engineer for 5 years now, and programming for 10
 Computer Engineering and strong knowledge on Computer Architecture, Computer Networking, System Programming and 
 Distributed Systems.
 
-#### What's main goal?
+#### What's my main goal?
 To use technology to build innovative solutions to problems and improve people's daily lives
 
 #### My dream stack?
